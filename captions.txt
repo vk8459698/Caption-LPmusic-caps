@@ -1,0 +1,36 @@
+Time segment: 0:00-10:00
+Audio chunk: audio_chunks/chunk_0.wav
+Caption: This is an instrumental cover of a glam metal music piece. The piece is being played gently on a keyboard with a grand piano sound. There is a calming, relaxing atmosphere in this piece. It could be playing in the background at a coffee shop.
+--------------------------------------------------
+Time segment: 10:00-20:00
+Audio chunk: audio_chunks/chunk_1.wav
+Caption: The low quality recording features a passionate female vocal singing over sustained strings melody and mellow piano chords. It sounds emotional, passionate and the recording is noisy and in mono.
+--------------------------------------------------
+Time segment: 20:00-30:00
+Audio chunk: audio_chunks/chunk_2.wav
+Caption: The low quality recording features a passionate female vocal singing over sustained strings melody and mellow piano chords. It sounds emotional and passionate.
+--------------------------------------------------
+Time segment: 30:00-40:00
+Audio chunk: audio_chunks/chunk_3.wav
+Caption: The low quality recording features a pop song that consists of a passionate female vocal singing over sustained strings melody, mellow piano melody and shimmering bells melody. It sounds emotional and passionate.
+--------------------------------------------------
+Time segment: 40:00-50:00
+Audio chunk: audio_chunks/chunk_4.wav
+Caption: The low quality recording features a pop song that consists of a passionate female vocal, alongside harmonizing vocals, singing over punchy kick and snare hits, shimmering hi hats, groovy bass and mellow piano melody. It sounds emotional and passionate.
+--------------------------------------------------
+Time segment: 50:00-60:00
+Audio chunk: audio_chunks/chunk_5.wav
+Caption: The low quality recording features a pop song that consists of a passionate female vocal, alongside harmonizing background female vocals, singing over punchy kick and snare hits, shimmering hi hats, groovy bass and mellow piano melody. It sounds emotional and passionate.
+--------------------------------------------------
+Time segment: 60:00-70:00
+Audio chunk: audio_chunks/chunk_6.wav
+Caption: The low quality recording features a live performance of a pop song that consists of a passionate female vocal, alongside harmonizing female vocals, singing over sustained strings melody, punchy snare and shimmering cymbals. It sounds emotional and passionate.
+--------------------------------------------------
+Time segment: 70:00-80:00
+Audio chunk: audio_chunks/chunk_7.wav
+Caption: The low quality recording features a passionate female vocal, alongside harmonizing female vocals, singing over simple bass, punchy snare, soft kick hits, shimmering hi hats and groovy piano melody. It sounds emotional and passionate.
+--------------------------------------------------
+Time segment: 80:00-90:00
+Audio chunk: audio_chunks/chunk_8.wav
+Caption: The low quality recording features a pop song that consists of a passionate female vocal, alongside harmonizing background female vocals, singing over punchy kick and snare hits, shimmering hi hats, groovy bass and mellow piano melody. It sounds emotional and passionate.
+--------------------------------------------------
