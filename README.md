@@ -53,7 +53,7 @@ just run these commands
 pip install -r requirements.txt
 ```
 ```bash
-python app.py --audio path/to/audio.mp3
+python app.py path/to/audio.mp3
 ```
 
 ### Options
