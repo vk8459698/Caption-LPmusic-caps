@@ -155,7 +155,6 @@ def caption_audio(model, audio_tensor, device, num_beams=5):
             batch = audio_tensor[i:end]
             
             try:
-                print(f"Processing batch {i//batch_size + 1}/{(num_segments+batch_size-1)//batch_size}...")
                 captions = model.generate(
                     samples=batch,
                     num_beams=num_beams,
